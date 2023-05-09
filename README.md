@@ -1,1 +1,1 @@
-# Logisticr_egression
+# Logisticregression
